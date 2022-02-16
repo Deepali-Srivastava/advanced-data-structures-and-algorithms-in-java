@@ -5,7 +5,7 @@ This [“Advanced Data Structures and Algorithms in Java”]( https://www.udemy.
 ### About the Course
  * Thoroughly detailed course with complete working programs
  * Contains lots of animations to help you visualize the concepts
- * Includes Graph Algorithms, AVL tree, BTree, 
+ * Includes Graph Algorithms, AVL tree, BTree
  * Builds a solid foundation in Data Structures and Algorithms
  * Prepares you for coding interviews 
  * Lifetime Access
